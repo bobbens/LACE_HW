@@ -18,6 +18,7 @@ UsedLibrary="/home/bobbens/.eagle/lbr/74xx-little-de.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/74xx-little-us.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/74xx-us.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/751xx.lbr"
+UsedLibrary="/home/bobbens/.eagle/lbr/KYOCERA.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/agilent-technologies.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/allegro.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/altera-cyclone-II.lbr"
@@ -172,6 +173,7 @@ UsedLibrary="/home/bobbens/.eagle/lbr/lem.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/linear-technology.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/linear.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/linx.lbr"
+UsedLibrary="/home/bobbens/.eagle/lbr/lm1117.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/lprs.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/lumiled.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/marks.lbr"
@@ -303,11 +305,10 @@ UsedLibrary="/home/bobbens/.eagle/lbr/xicor.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/xilinx-xcv.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/zetex.lbr"
 UsedLibrary="/home/bobbens/.eagle/lbr/zilog.lbr"
-UsedLibrary="/home/bobbens/.eagle/lbr/KYOCERA.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="44 74 604 623"
+Loc="45 75 605 624"
 State=2
 Number=0
 
